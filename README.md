@@ -1,0 +1,14 @@
+# missi-user 12 SP1A.210812.016 V13.0.0.10.SKJINXM release-keys
+- manufacturer: xiaomi
+- platform: mt6893
+- codename: ares
+- flavor: missi-user
+- release: 12
+- id: SP1A.210812.016
+- incremental: V13.0.0.10.SKJINXM
+- tags: release-keys
+- fingerprint: POCO/vnd_ares/ares:12/SP1A.210812.016/V13.0.0.10.SKJINXM:user/release-keys
+- is_ab: true
+- brand: POCO
+- branch: missi-user-12-SP1A.210812.016-V13.0.0.10.SKJINXM-release-keys
+- repo: poco_ares_dump699
